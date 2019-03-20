@@ -1,3 +1,10 @@
+html {
+  background-image: url('/img/bg.png');
+  background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
 body {
   color: #333333;
   font-family: arial;
@@ -15,7 +22,7 @@ body {
 }
 
 footer {
-  color: #888888;
+  color: #333333;
   border-top: 1px solid #eeeeee;
   margin-top: 16px;
   padding: 16px 0;
@@ -32,7 +39,7 @@ h1 {
 }
 
 header a, p a {
-  color: #888888;
+  color: #333333;
   margin-right: 16px;
   text-decoration: none;
 }
